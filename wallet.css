@@ -1,0 +1,38 @@
+
+.container
+{
+    text-align: center;
+    background-color: #121212;
+    padding: 20px;
+}
+.points, .rewards {
+    margin-bottom: 20px;
+    background-color: #121212;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:crimson;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+button:hover {
+   
+    color: crimson;
+    border: 1px solid black;
+}
+.container {
+    background-color: #121212;
+    color: #fff;
+    
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(119, 75, 75, 0.1);
+    text-align: center;
+}
+
+
+
