@@ -48,6 +48,7 @@ Sharing Tracks: Use the 'Share' feature to post your favorite tracks or playlist
 
 Synchronizing Devices: Log in with your account on multiple devices to keep your music library and preferences consistent across platforms.​
 
-Adjusting Audio: Access the equalizer settings through the 'Settings' menu to fine-tune audio output to your liking.​
+Adjust Audio: Access the equalizer settings through the 'Settings' menu to fine-tune audio output to your liking.​
 
 Viewing Lyrics: Click on the 'Lyrics' button during playback to view synchronized lyrics for the current song.
+
