@@ -7,13 +7,6 @@ Purpose
 The primary aim of Web Music Player is to provide users with a centralized platform to access and manage their personal music libraries without the need for additional software installations. By leveraging web technologies, it offers flexibility and convenience, allowing users to enjoy their favorite tracks anytime, anywhere.​
 
 Features
-Responsive Design: Ensures optimal viewing and interaction across a wide range of devices, providing a consistent user experience.​
-GitHub
-+2
-GitLab Docs
-+2
-Medium
-+2
 
 Intuitive Controls: Simple and user-friendly controls for play, pause, skip, and volume adjustment, enhancing the overall usability.​
 
@@ -34,6 +27,7 @@ Equalizer Settings: Includes a built-in equalizer for adjusting audio frequencie
 Lyrics Display: Displays synchronized lyrics during playback, enriching the user's engagement with the music.​
 
 Usage
+
 Adding Music: Upload your audio files to the designated 'music' directory. The player will automatically detect and list them in your library.​
 
 Creating Playlists: Navigate to the playlist section to create and manage your personalized playlists.​
